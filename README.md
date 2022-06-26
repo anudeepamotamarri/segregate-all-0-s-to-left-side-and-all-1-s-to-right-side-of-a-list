@@ -1,0 +1,1 @@
+# segregate-all-0-s-to-left-side-and-all-1-s-to-right-side-of-a-list
